@@ -1,0 +1,23 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advilm/AdventOfCode2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/advilm/AdventOfCode2019/issues"
+  },
+  "homepage": "https://github.com/advilm/AdventOfCode2019#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "walk": "^2.3.14"
+  }
+}

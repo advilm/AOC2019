@@ -1,4 +1,4 @@
-console.log(`109024
+module.exports = `109024
 137172
 80445
 80044
@@ -97,8 +97,4 @@ console.log(`109024
 79396
 140312
 147746
-136975`.split('\n').map(x => {
-    var amount = 0;
-    while (Math.floor(x / 3) - 2 >= 0) amount += x = Math.floor(x / 3) - 2;
-    return amount;
-  }).reduce((a, b) => a + b));
+136975`;
